@@ -1,0 +1,9 @@
+#home{
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.5;
+    background-color: black;
+    color: #ece3e3;
+}
